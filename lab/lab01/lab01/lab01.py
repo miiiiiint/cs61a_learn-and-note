@@ -67,7 +67,6 @@ def double_eights(n):
     """
     s = 0
     i = 0
-
     while True:
         if n <= 10:
             if n == 8:
